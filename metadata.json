@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Rautatie - esikäsikirjoitettu versio",
+  "description": "Junailtu (railroaded) hidden role -päättelypeli, jossa tekoäly luo dramaturgisia kohtauksia ja reaaliaikaisia sosiaalisia toimintaohjeita larpattavaksi. - Remix versiossa tekoäly generoi kerralla koko skenaarion kohtaukset valmiiksi. pelin aikana kohtaloa ei voida muuttaa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
